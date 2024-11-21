@@ -1,0 +1,14 @@
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\bin\Debug\ParcialC#.exe.config
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\bin\Debug\ParcialC#.exe
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\bin\Debug\ParcialC#.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\bin\Debug\ParcialC#1V2 BA.exe
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\bin\Debug\ParcialC#1V2 BA.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\bin\Debug\ParcialC#1V2 BA.exe.config
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\obj\Debug\CalcularPresupuesto FE.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\obj\Debug\ParcialC_.Form1.resources
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\obj\Debug\ParcialC_.Properties.Resources.resources
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\obj\Debug\CalcularPresupuesto FE.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\obj\Debug\CalcularPresupuesto FE.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\obj\Debug\Calcular.8C3AAD7C.Up2Date
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\obj\Debug\ParcialC#.exe
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#\obj\Debug\ParcialC#.pdb

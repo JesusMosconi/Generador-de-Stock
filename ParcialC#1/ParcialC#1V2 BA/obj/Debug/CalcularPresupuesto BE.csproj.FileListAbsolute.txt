@@ -1,0 +1,9 @@
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\bin\Debug\ParcialC#1V2 BA.exe.config
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\bin\Debug\ParcialC#1V2 BA.exe
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\bin\Debug\ParcialC#1V2 BA.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\obj\Debug\CalcularPresupuesto BE.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\obj\Debug\ParcialC_1V2_BA.Properties.Resources.resources
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\obj\Debug\CalcularPresupuesto BE.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\obj\Debug\CalcularPresupuesto BE.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\obj\Debug\ParcialC#1V2 BA.exe
+C:\Users\Equipo\Desktop\jesus\Programas\CalcularPresupuesto-main V2\ParcialC#1\ParcialC#1V2 BA\obj\Debug\ParcialC#1V2 BA.pdb
